@@ -13,3 +13,5 @@ The attached figures show that early years (2005–2010) exhibit strong performa
 <img width="905" alt="Screenshot 2025-03-16 at 11 30 56" src="https://github.com/user-attachments/assets/cf440517-d3d9-45c3-8595-9a403e1adef1" />
 <img width="913" alt="Screenshot 2025-03-16 at 11 31 08" src="https://github.com/user-attachments/assets/97eec95b-f8fc-49c7-9928-338bfde776a1" />
 <img width="917" alt="Screenshot 2025-03-16 at 11 31 15" src="https://github.com/user-attachments/assets/2ad21fb6-39c4-46d7-9973-e740f2bf0238" />
+<img width="902" alt="Screenshot 2025-03-16 at 11 35 08" src="https://github.com/user-attachments/assets/500fc125-78af-41db-b237-1fe58f3f04c0" />
+
