@@ -1,7 +1,9 @@
 Overview
+
 This project explores over half of the alpha signals from the well-known Alpha101 paper, applied to Russell 1000 index stocks spanning 2005 to 2024 (data pulled from Bloomberg). I use ridge regression to predict the next day’s returns, updating the model in a monthly walk-forward fashion. Each trading day, the strategy ranks all stocks based on predicted returns, then buys the top 50 and sells the bottom 50, rebalancing daily with MOC (Market on Close) and MOO (Market on Open) orders to avoid overnight exposure.
 
 Strategy & Results
+
 Model: Ridge regression predicting next-day returns
 Universe: Russell 1000 stocks (2005–2024)
 Execution: Buy top 50, sell bottom 50 each day; no overnight holding
